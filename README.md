@@ -4,7 +4,7 @@ This project collects the algorithm and data structure I learnt, and some useful
 
 ## Table of content
 
- 1. [Sorting algorithm] https://github.com/qingyang0506/Competitive-programming/tree/main/sorting%20algorithm
+ 1. [Sorting algorithm](https://github.com/qingyang0506/Competitive-programming/tree/main/sorting%20algorithm)
  2. Binary Search,Two pointer
  3. High precision operation
  4. Prefix sum,Difference array
