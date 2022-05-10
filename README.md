@@ -10,8 +10,6 @@ This project collects the algorithm and data structure I learnt, and some useful
  4. [Prefix sum,Difference array](https://github.com/qingyang0506/Competitive-programming/tree/main/PrefixSum)
  5. [Bit operation,discretization](https://github.com/qingyang0506/Competitive-programming/tree/main/BitOperation)
  6. [Single linkedList and double LinkedList](https://github.com/qingyang0506/Competitive-programming/tree/main/LinkedList)
- 7. Union find,  Trie tree
- 8. Hash table
- 9. Graph algorithm
- 10. Greedy
- 11. Dynamic programming 
+ 7. [Union find,  Trie tree](https://github.com/qingyang0506/Competitive-programming/tree/main/UnionFind)
+ 8. [Tree](https://github.com/qingyang0506/Competitive-programming/tree/main/Tree)
+
